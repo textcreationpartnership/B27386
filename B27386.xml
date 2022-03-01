@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from the Great Turke. A blasphemous manifestation of the Grand Seignior of Constantinople, against the Christians; of his entrance into Christendome, and the particulars of his great armie. As it was sent to a merchant of note in London. As also what forces are preparing against him by the Venetians, and other Christian princes, viz. the Duke of Florence, and Duke of Parma; the Great Master of Malta. / All faithfully translated out of the Italian and French copies. Published by authoritie; that all Christians may take notice of the great pride and horrid blasphemy of the Turkes..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27386</idno>
+            <idno type="STC">Wing N1008</idno>
+            <idno type="STC">Thomason E.295[6]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.114.d.5[21]</idno>
+            <idno type="STC">ESTC R200195</idno>
+            <idno type="EEBO-CITATION">99883212</idno>
+            <idno type="PROQUEST">ocm99883212</idno>
+            <idno type="VID">193607</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B27386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193607)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C27:1[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from the Great Turke. A blasphemous manifestation of the Grand Seignior of Constantinople, against the Christians; of his entrance into Christendome, and the particulars of his great armie. As it was sent to a merchant of note in London. As also what forces are preparing against him by the Venetians, and other Christian princes, viz. the Duke of Florence, and Duke of Parma; the Great Master of Malta. / All faithfully translated out of the Italian and French copies. Published by authoritie; that all Christians may take notice of the great pride and horrid blasphemy of the Turkes..</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jo. Handcock in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ibrahim, --  Sultan of the Turks, 1615-1648 --  Early works to 1800.</term>
+               <term>Islam --  Relations --  Christianity --  Early works to 1800.</term>
+               <term>Turkey --  History --  1453-1683 --  Early works to 1800.</term>
+               <term>Venice (Italy) --  History --  Turkish Wars, 17th century --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:193607:1"/>
+            <pb facs="tcp:193607:1" rendition="simple:additions"/>
+            <p>NEWES FROM THE GREAT TURKE. A Blaſphemous Manifeſtation of the Grand Seignior of <hi>Conſtantinople,</hi> againſt the Chriſtians; of his entrance into Chri<g ref="char:EOLhyphen"/>ſtendome, and the Particulars of his Great ARMIE. As it was ſent to a Merchant of note in <hi>London. AS ALSO</hi> What Forces are preparing againſt him by the <hi>Venetians,</hi> and other Chriſtian Princes, <hi>viz.</hi> The Duke of <hi>Florence,</hi> and Duke of <hi>Parma;</hi> The Great Maſter of <hi>Malta.</hi> All faithfully Tranſlated out of the <hi>Italian</hi> and <hi>French</hi> Copies. <hi>Publiſhed by Authoritie;</hi> that all Chriſtians may take notice of the great Pride and horrid Blaſphemy of the <hi>Turkes.</hi>
+            </p>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Jo. Handcock</hi> in <hi>Popes-head-Alley.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:193607:2"/>
+            <pb n="1" facs="tcp:193607:2"/>
+            <head>NEVVES FROM THE GREAT TURKE.</head>
+            <p>
+               <seg rend="decorInit">S</seg>ULTAN BRAIN, Might<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Emperour, Son and Nephew of God, the Invincible King of the <hi>Turkes,</hi> of <hi>Greece,</hi> of the <hi>Valticke,</hi> of <hi>Salmuria,</hi> of <hi>Damaſ<g ref="char:EOLhyphen"/>cus,</hi> of <hi>Phrygia,</hi> of the Great and Leſſer <hi>Aegypt,</hi> of <hi>Alexandria,</hi> of <hi>America</hi> and <hi>A<g ref="char:EOLhyphen"/>frica;</hi> King of all the Kings in this World, chiefe Saint of Paradiſe; Biſhop of whole <hi>Aſia, Africa,</hi> and <hi>America,</hi> and of the moſt part of <hi>Eu<g ref="char:EOLhyphen"/>rope;</hi> chiefe head of <hi>Linco;</hi> Guardian of the Se<g ref="char:EOLhyphen"/>pulchre of <hi>Mahomet,</hi> and that of God; Lord and King of all Kings, Prince of all Princes; Terrour and ſcourge of all Chriſtians; of the <hi>Ottomans,</hi> and of the Circumciſed Hope, and Ineſtimable precious Stone, and moſt gracious Jewell.</p>
+            <pb n="2" facs="tcp:193607:3"/>
+            <p>The immortall memory of <hi>Sultan Murat,</hi> Grand Seignor of the <hi>Turkes,</hi> our Predeceſſour and beloved Brother, did alwayes intend to take from the Chriſtians their little Rocke, which is poſſeſſed by thoſe that are called by the name of <hi>Religion of Malta;</hi> and withall to ſup<g ref="char:EOLhyphen"/>preſſe their Gallies, becauſe of the continuall damage which they doe upon our Seas. And whileſt the ſaid Grand Seignor was buſie to bring his deſigne about, he dyed; Charging us to take this care upon us, which ſo much the more willingly wee doe reſolve to put in exe<g ref="char:EOLhyphen"/>cution, becauſe the ſaid Gallies not regarding our diſpleaſure, tooke not long ſince a Ship of ours, where the <hi>Sultan Seſera</hi> was, with the <hi>A<g ref="char:EOLhyphen"/>ga,</hi> who dyed in the fight, to our great griefe: therefore Wee Command all our <hi>Baſhaes</hi> in <hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> and all the Kings, to be with their Gallies in a readineſſe the firſt day of the full Moone, in the moneth of <hi>Aprill;</hi> And that all thoſe Gallies which are in our River of <hi>Arcenall,</hi> be ſet out armed and ready at the ſame time; together with all the Shippes that are in our Harbours, and our whole <hi>Militia</hi> is to doe the ſame; for our Will is, That this our Armie ſhall be the terrour, not onely to Chriſtendome, but
+<pb n="3" facs="tcp:193607:3"/>to the whole World, that by the multitude of our Gallies and Shippes, the Sunne, Moone, and Starres, in admiration thereof ſhall be changed; the Fiſhes ſhall hide themſelves in the deepeſt bottome of the Sea, for the fearefull noiſe of our Ordnance, that the Beaſts and the Forreſts ſhall be afraid, and the very trees rooted out and bea<g ref="char:EOLhyphen"/>ten downe; And all Chriſtendome ſhall by this our great might feele our anger and wrath, for the loſſe of our <hi>Sultan</hi> and the ſaid <hi>Aga.</hi>
+            </p>
+            <p>The ſaid <hi>Sultan,</hi> by this his blaſphemous ma<g ref="char:EOLhyphen"/>nifeſtation, declares as if he meant wholly to bend his force towards the Iſle of <hi>Malta,</hi> not<g ref="char:EOLhyphen"/>withſtanding is entred in <hi>Candia,</hi> being the Do<g ref="char:EOLhyphen"/>minion of the <hi>Venetians,</hi> where he hath already taken ſome Forts, whereof ſome upon Compo<g ref="char:EOLhyphen"/>ſition; and notwithſtanding, after he had taken poſſeſſion of them, hath put them moſt treache<g ref="char:EOLhyphen"/>rouſly to the ſword without any mercy, which is not to be wondred at, by reaſon that the great <hi>Sultans,</hi> his Predeceſſours, when they made warre againſt the <hi>Venetians</hi> and <hi>Hungarians,</hi> did alwayes put them moſt cruelly to the ſword, whether they delivered their Townes up by Compoſition, or otherwiſe. It is credibly re<g ref="char:EOLhyphen"/>ported by ſome that have been eye-witneſſes
+<pb n="4" facs="tcp:193607:4"/>thereof, that this Great <hi>Turkes</hi> Army conſiſts of above 300000 men, whereof moſt of them are Janiſaries; 6 great Galliones, that are of 1000 tunne each; 600 Gallies, 1000 ſmall Boats to land men and ammunition with; 1500 Camels laden with Powder; Beſides divers Ships from <hi>Algier,</hi> laden with all ſorts of Ammunition, as ſtakes, nailes, Iron-workes, and ſuch things as they commonly make uſe of, inſomuch as it is thought that they never came out with ſuch a great Armie, as at this time. It is much to be wiſhed, that all Chriſtian Princes were reconci<g ref="char:EOLhyphen"/>led together, and endeavoured to joyne their Forces together, to oppoſe that cruell enemy that ſeekes to make himſelfe Monarch of the World, and to bring the Chriſtians under his uſurping power.</p>
+            <p>By Letters from <hi>Venice</hi> it is certified, that their Shippes have met with ſome part of the <hi>Turkes</hi> Fleet, which were coming from <hi>Algier,</hi> and have fought with them, and have ſunke twenty of their Gallies and foure of their men of Warre.</p>
+            <p>They make great preparations at <hi>Venice</hi> a<g ref="char:EOLhyphen"/>gainſt the <hi>Turke;</hi> many Chriſtian Princes offer their help to the utmoſt. By Letters from thence
+<pb n="5" facs="tcp:193607:4"/>it is certified thus; That the <hi>French</hi> Ambaſſadour the Lord of <hi>Gremovilie,</hi> having made his pub<g ref="char:EOLhyphen"/>lick entry the 14<hi rend="sup">th</hi> of <hi>Iuly</hi> laſt, the next day after had Audience in the Councell, where he was received with great honour and having ſhewed his Letters of Credit, made an Oration, offering in the behalfe of the King of <hi>France</hi> his Maſter, his utmoſt helpe in this Warre, which was re<g ref="char:EOLhyphen"/>ceived thankfully.</p>
+            <p>The great Duke of <hi>Florence</hi> hath likewiſe pre<g ref="char:EOLhyphen"/>ſented by his Ambaſſadour, all his power, as well by land as by water, his Gallies, Shippes, Men, and his own perſon. The Duke of <hi>Parma,</hi> that is there at preſent, offers 1500 Dragoones; 500 horſe, and 3000 foot; it is ſaid he ſhall be Gene<g ref="char:EOLhyphen"/>rall, and ſent towards <hi>Palma.</hi> The great Maſter of <hi>Malta</hi> offers likewiſe 8000 Souldiers, and 2000 ſlaves. In the meane time, the Great <hi>Turke</hi> goeth on his way, bringing all under his Power where he comes, whileſt they feed themſelves with theſe offers.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:193607:5"/>
+            <pb facs="tcp:193607:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
